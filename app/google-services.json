@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274825220580",
+    "project_id": "hive-utp",
+    "storage_bucket": "hive-utp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274825220580:android:c5978b33077a93a3f4f7f1",
+        "android_client_info": {
+          "package_name": "com.hive.plataforma.escolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274825220580-2qaa0s8rich2jnjg0hebao236gapgsfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjzdUoT-C-aYIZ1XdprLgK7fjFKjJJuKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274825220580-2qaa0s8rich2jnjg0hebao236gapgsfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

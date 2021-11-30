@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hive</string>
+    <string name="login"><u>I already have an account , login</u></string>
+    <string name="register_text"><u>Register</u></string>
+    <string name="login_text"><u>Login</u></string>
+    <string name="Registro" translatable="false">Registro</string>
+    <string name="Acceso" />
+    <string name="acceso">Acceso</string>
+    <string name="login2">Desea abrir una cuenta, acceso</string>
+    <string name="login3">Si tiene una cuenta, click aqui</string>
+    <string name="page_title">Hive</string>
+    <string-array name="tipos">
+        <item>Estudiante</item>
+        <item>Docente</item>
+    </string-array>
+
+</resources>
